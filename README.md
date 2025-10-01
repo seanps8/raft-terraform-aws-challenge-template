@@ -2,6 +2,8 @@
 
 This repository provides you with a modular skeleton terraform directory tree to go off of for the challenge requirements below. 
 
+SQL commands that may be needed are located in modules/storage/README.md for your reference.
+
 ## Prerequisite
 - An active AWS Account (Free Tier is sufficient)
 - Terraform CLI
