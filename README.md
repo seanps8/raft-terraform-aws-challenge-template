@@ -1,8 +1,10 @@
 # Raft Terraform AWS Challenge
 
-This repository provides you with a modular skeleton terraform directory tree to go off of for the challenge requirements below. 
-
-SQL commands that may be needed are located in modules/storage/README.md for your reference.
+This repository provides you with a jump start for the challenge requirements below. The following have been provided for you in the code, but can be updated how you see fit:
+- VPC module
+- RDS terraform in the storage module (still needs s3 bucket for dataset)
+- Initial lambda python set up in app/ directory
+- SQL commands that may be needed are located in modules/storage/README.md
 
 ## Prerequisite
 - An active AWS Account (Free Tier is sufficient)
